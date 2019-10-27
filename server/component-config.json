@@ -1,0 +1,11 @@
+{
+  "loopback-component-model-fragments": {
+    "sources": [
+      "./models",
+      "../common/models"
+    ]
+  },
+  "loopback-component-explorer": {
+    "mountPath": "/explorer"
+  }
+}

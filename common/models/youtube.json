@@ -1,0 +1,6 @@
+{
+  "name": "Youtube",
+  "base": "PersistedModel",
+  "strict": true,
+  "idInjection": false
+}
